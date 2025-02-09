@@ -21,7 +21,7 @@ Este projeto segue a arquitetura **MVC (Model-View-Controller)**, que permite um
 - **Criptografia de senha**: Garante a segurança das senhas dos usuários.
 - **Validação de CPF**: Verifica a integridade do CPF informado.
 - **Verificação de CPF e CEP no banco de dados**: Busca e verifica os dados de CPF e CEP já existem no MySQL.
-- **Autenticação de usuário**: Realizada por meio de nome, CPF e senha para um login seguro.
+- **Autenticação de usuário**: Realizada por meio de nome, senha e CPF para um login seguro.
 
 ## Autor do projeto:
 **Guilherme Amaral Guerra**
